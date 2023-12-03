@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:20:29:57 +0800] "GET /brand/brand.html HTTP/1.1" 200 17016 http-bio-8080-exec-1 29
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:20:29:57 +0800] "GET /brand/js/vue.js HTTP/1.1" 200 341462 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:20:29:57 +0800] "GET /brand/element-ui/lib/theme-chalk/index.css HTTP/1.1" 200 232460 http-bio-8080-exec-2 18
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:20:29:57 +0800] "GET /brand/js/axios-0.18.0.js HTTP/1.1" 200 12948 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:20:29:57 +0800] "GET /brand/element-ui/lib/index.js HTTP/1.1" 200 567058 http-bio-8080-exec-4 12
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:20:29:57 +0800] "GET /brand/element-ui/lib/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:20:29:58 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:20:29:58 +0800] "POST /brand/brand/selectByPageAndCondition?currentPage=1&pageSize=5 HTTP/1.1" 200 776 http-bio-8080-exec-9 717
